@@ -33,7 +33,6 @@ body {
   
 }
 
-
 .travel--card {
     display: flex;
     max-width: 400px;
@@ -80,6 +79,7 @@ body {
 .google {
     display: flex;
     justify-content: end;
+    justify-content: space-between;
     position: relative;
     top: -24px;
     color: #918E9B;

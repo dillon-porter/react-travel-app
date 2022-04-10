@@ -1,4 +1,4 @@
-### React Business Card
+### React Travel App
 
 Created a react app from module 1 from Bob Ziroll's - Learn React for Free on Scrimba (Updated 2021).
 This was a solo project assignment from module #2, there was no coded solution for this project. 
